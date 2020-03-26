@@ -1,0 +1,15 @@
+{
+  "name": "codesandbox",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "git@github.com:nielswijers/codesandbox.git",
+  "author": "Niels Wijers <nielswijers@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "examples/*"
+  ],
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  }
+}
